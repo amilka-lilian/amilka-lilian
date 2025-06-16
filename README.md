@@ -1,5 +1,5 @@
 # Hello! Welcome to my Github profile. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
-## My name is SAmilka L. S. Pereira and my nickname is amilka-lilian ! :
+## My name is Amilka L. S. Pereira and my nickname is amilka-lilian ! :
 
   WEB developer | JavaScritp | TypeScript | React | Ionic | UX | UI
 
